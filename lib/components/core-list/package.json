@@ -1,0 +1,10 @@
+{
+    "name": "List",
+    "tagName": "core-list",
+    "package": "Core",
+    "icon": "fa-list",
+    "keywords": ["list", "core"],
+    "main": "./list.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

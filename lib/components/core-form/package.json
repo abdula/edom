@@ -1,0 +1,12 @@
+{
+    "name": "Form",
+    "tagName": "core-form",
+    "package": "Core",
+    "icon": "fa-form",
+    "keywords": ["form", "core"],
+    "main": "./index.js",
+    "version": "0.0.1",
+    "dependencies": {
+        "validator-schema-plugin": "https://github.com/abdula/validator-schema-plugin/tarball/master"
+    }
+}

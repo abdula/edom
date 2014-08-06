@@ -1,0 +1,10 @@
+{
+    "name": "Text",
+    "tagName": "core-text",
+    "package": "Core",
+    "icon": "fa-list",
+    "keywords": ["text", "core"],
+    "main": "./text.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

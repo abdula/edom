@@ -1,0 +1,10 @@
+{
+    "name": "Label",
+    "tagName": "core-label",
+    "package": "Core",
+    "icon": "fa-label",
+    "keywords": ["form", "core", "label"],
+    "main": "./label.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

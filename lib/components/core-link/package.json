@@ -1,0 +1,10 @@
+{
+    "name": "Link",
+    "tagName": "core-link",
+    "package": "Core",
+    "icon": "fa-link",
+    "keywords": ["link", "core"],
+    "main": "./link.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

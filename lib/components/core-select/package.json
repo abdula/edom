@@ -1,0 +1,10 @@
+{
+    "name": "Select",
+    "tagName": "core-select",
+    "package": "Core",
+    "icon": "fa-form",
+    "keywords": ["form", "core"],
+    "main": "./select.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

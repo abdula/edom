@@ -1,0 +1,10 @@
+{
+    "name": "TextArea",
+    "tagName": "core-textarea",
+    "package": "Core",
+    "icon": "fa-form",
+    "keywords": ["form", "core"],
+    "main": "./textarea.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

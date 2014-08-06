@@ -1,0 +1,10 @@
+{
+    "name": "Blank",
+    "tagName": "core-blank",
+    "package": "Core",
+    "icon": "fa-blank",
+    "keywords": ["blank", "core"],
+    "main": "./index.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

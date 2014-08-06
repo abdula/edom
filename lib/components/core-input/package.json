@@ -1,0 +1,10 @@
+{
+    "name": "List",
+    "tagName": "core-input",
+    "package": "Core",
+    "icon": "fa-list",
+    "keywords": ["input", "core"],
+    "main": "./input.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}

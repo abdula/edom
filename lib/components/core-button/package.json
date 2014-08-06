@@ -1,0 +1,10 @@
+{
+    "name": "Button",
+    "tagName": "core-button",
+    "package": "Core",
+    "icon": "fa-form",
+    "keywords": ["form", "core"],
+    "main": "./button.js",
+    "version": "0.0.1",
+    "dependencies": {}
+}
